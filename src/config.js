@@ -1,0 +1,1 @@
+export const baseAPIUrl = 'https://backend.comics.ml/api';
