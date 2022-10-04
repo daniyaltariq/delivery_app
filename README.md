@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Sender can track his/her parcels in this dashboard
 
-Emails `sender1@deliver.com`, `sender2@deliver.com`, `sender3@deliver.com`, `sender4@deliver.com`, `sender5@deliver.com`
+Emails `sender1@deliver.com`, `sender2@deliver.com`, `sender3@deliver.com`, `sender4@deliver.com`, `sender5@deliver.com` \
 Passwords `sender1`, `sender2`, `sender3`, `sender4`, `sender5`
 
 
@@ -28,7 +28,7 @@ Passwords `sender1`, `sender2`, `sender3`, `sender4`, `sender5`
 
 Dispatchers can only move the parcels to `picked up` from `pending` and mark those parcels as `delivered`.
 
-Emails `dispatcher1@deliver.com`, `dispatcher2@deliver.com`, `dispatcher3@deliver.com`, `dispatcher4@deliver.com`, `dispatcher5@deliver.com`
+Emails `dispatcher1@deliver.com`, `dispatcher2@deliver.com`, `dispatcher3@deliver.com`, `dispatcher4@deliver.com`, `dispatcher5@deliver.com` \
 Passwords `dispatcher1`, `dispatcher2`, `dispatcher3`, `dispatcher4`, `dispatcher5`
 
 ### `Technologies used`
